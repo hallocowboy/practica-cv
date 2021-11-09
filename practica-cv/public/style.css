@@ -38,9 +38,17 @@ em {
     font-weight: bold;
 }
 
-strong {
+.bold-text {
     color: hsl(200, 100%, 30%);
     font-weight: normal;
+}
+
+#subtitle {
+	text-align: center;
+}
+
+.emphasis {
+	text-emphasis: dot grey;
 }
 
 address {
