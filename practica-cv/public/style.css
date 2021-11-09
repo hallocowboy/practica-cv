@@ -1,41 +1,36 @@
 
 body {
-    background-color: hsl(200, 15%, 85%);
+    background-color: #d3dbde;
     font-family: sans-serif;
-    text-align: justify;
 }
 
 h1 {
-    color: #333333;
-    font-size: 250%;
+    color: #415058;
+    font-size: 42px;
     text-align: center;
-    text-transform: uppercase;
 }
 
 h2 {
-    background-color: hsl(200, 15%, 55%);
-    color: hsl(200, 15%, 30%);
-    font-size: 200%;
+    background-color: #7b929d;
+    color: #415058;
+    font-size: 32px;
     text-decoration: underline;
-    padding: 5 8 5 8px;
-    display: inline;
 }
 
 h3 {
-    background-color: hsl(200, 15%, 65%);
-    color: hsl(200, 15%, 40%);
-    font-size: 130%;
+    background-color: #98aab3;
+    color: #576b75;
+    font-size: 24px;
     font-style: italic;
 }
 
 p {
-    background-color: hsl(200, 15%, 75%);
+    background-color: #b6c2c9;
 }
 
 
-.bold-text {
-    color: hsl(200, 100%, 30%);
-    font-weight: normal;
+.data-title {
+    color: #006699;
 }
 
 #subtitle {
@@ -44,7 +39,7 @@ p {
 
 .emphasis {
 	/*text-emphasis: dot grey;*/
-    color: hsl(200, 100%, 40%);
+    color: #0088cc;
     font-style: normal;
     font-weight: bold;
 }
