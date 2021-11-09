@@ -32,11 +32,6 @@ p {
     background-color: hsl(200, 15%, 75%);
 }
 
-em {
-    color: hsl(200, 100%, 40%);
-    font-style: normal;
-    font-weight: bold;
-}
 
 .bold-text {
     color: hsl(200, 100%, 30%);
@@ -48,11 +43,9 @@ em {
 }
 
 .emphasis {
-	text-emphasis: dot grey;
+	/*text-emphasis: dot grey;*/
+    color: hsl(200, 100%, 40%);
+    font-style: normal;
+    font-weight: bold;
 }
 
-address {
-    background-color: white;
-    font-weight: bold;
-    text-align: right;
-}
